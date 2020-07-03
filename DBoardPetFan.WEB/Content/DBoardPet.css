@@ -1,0 +1,14 @@
+﻿body {
+}
+.incremental-input {
+    max-width: 13.2rem;
+}
+
+    .incremental-input input[type=text] {
+        border-left: none;
+    }
+
+    .incremental-input .input-group-addon {
+        background: #fff;
+        cursor: pointer;
+    }
